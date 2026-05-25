@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&height=100&lines=👋+Hey%2C+I'm+Arun+Gupta!;Full+Stack+Developer;Tech+Enthusiast+|+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&height=100&lines=👋+Hey%2C+I'm+Arun+Gupta!;DevOps+Engineer;Cloud+Architect" alt="Arun Gupta" />
 </div>
 
 <div align="center">
@@ -21,14 +21,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** with a strong interest in building scalable web applications and exploring emerging technologies. I love turning ideas into reality through clean, efficient code.
+I'm a passionate **DevOps Engineer & Cloud Architect** with extensive expertise in designing, deploying, and maintaining scalable infrastructure. I specialize in containerization, orchestration, CI/CD pipelines, and cloud-native solutions. I love automating workflows and building robust systems that enable teams to deliver software faster and more reliably.
 
-- 🔭 Currently working on **innovative web solutions**
-- 🌱 Learning **advanced System Design & Cloud Architecture**
-- 💡 Interested in **AI/ML, Web3, and DevOps**
-- 🎯 Goal: Build products that make a real impact
-- 💬 Ask me about **JavaScript, React, Node.js, Python, or Web Development**
-- ⚡ Fun fact: I debug code faster with a cup of ☕!
+- 🔭 Currently working on **cloud infrastructure automation and Kubernetes optimization**
+- 🌱 Learning **advanced Kubernetes, Service Mesh, and Infrastructure as Code**
+- 💡 Specialized in **Docker, Kubernetes, CI/CD, AWS, Terraform, and Monitoring**
+- 🎯 Goal: Design infrastructure that scales seamlessly and operates reliably
+- 💬 Ask me about **DevOps, Cloud Architecture, Kubernetes, Docker, or Automation**
+- ⚡ Fun fact: I can troubleshoot infrastructure issues faster with a cup of ☕!
 
 ---
 
@@ -36,32 +36,43 @@ I'm a passionate **Full Stack Developer** with a strong interest in building sca
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+### Containerization & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### CI/CD Pipelines
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EB6E1F?style=flat-square&logo=argo&logoColor=white)
+
+### Monitoring & Logging
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+
+### Scripting & Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+
+### Version Control & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -83,48 +94,55 @@ I'm a passionate **Full Stack Developer** with a strong interest in building sca
 
 ## 🎯 Featured Projects
 
-### 🌟 Project One
-A brief description of your amazing project. Built with React, Node.js, and MongoDB.
-- **Tech Stack:** React, Node.js, MongoDB, Express
+### 🌟 Kubernetes Infrastructure Automation
+Automated Kubernetes deployment and management pipeline with GitOps principles using ArgoCD.
+- **Tech Stack:** Kubernetes, Docker, Terraform, ArgoCD, GitHub Actions
+- **Focus:** Infrastructure as Code, CI/CD, Container Orchestration
 - **Link:** [GitHub Repo](https://github.com/arungupta1526)
 
-### 🌟 Project Two
-Another impressive project showcasing your skills in full-stack development.
-- **Tech Stack:** Next.js, TypeScript, Tailwind CSS, PostgreSQL
+### 🌟 AWS Cloud Migration & Optimization
+Enterprise cloud migration strategy with multi-region deployment and cost optimization.
+- **Tech Stack:** AWS, Terraform, CloudFormation, Python, Ansible
+- **Focus:** Cloud Architecture, IaC, Auto-scaling
 - **Link:** [GitHub Repo](https://github.com/arungupta1526)
 
-### 🌟 Project Three
-Highlight your most significant contributions and achievements.
-- **Tech Stack:** Vue.js, Python, Docker, AWS
+### 🌟 Monitoring & Observability Stack
+Complete observability solution with Prometheus, Grafana, and ELK stack integration.
+- **Tech Stack:** Prometheus, Grafana, Elasticsearch, Logstash, Kibana, Python
+- **Focus:** Monitoring, Logging, Alerting, Analytics
 - **Link:** [GitHub Repo](https://github.com/arungupta1526)
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- ✅ Full Stack Web Developer
-- ✅ AWS Certified Developer
-- ✅ Open Source Contributor
-- ✅ Completed 100+ Coding Challenges
+- ✅ AWS Certified Solutions Architect
+- ✅ Certified Kubernetes Administrator (CKA)
+- ✅ Terraform Associate Certified
+- ✅ Docker Certified Associate
+- ✅ Google Cloud Professional Cloud Architect
+- ✅ Expert in CI/CD Pipeline Design & Implementation
 
 ---
 
 ## 📈 Recent Activity
 
 <!--
-You can customize this section to showcase your latest projects or contributions.
+You can customize this section to showcase your latest DevOps projects and contributions.
 Consider updating it regularly to keep your profile fresh!
 -->
 
-- 🔨 Building exciting projects and learning new technologies
-- 🤝 Open to collaborations and contribution opportunities
-- 📚 Sharing knowledge through blog posts and documentation
+- 🔧 Designing scalable Kubernetes clusters and container orchestration solutions
+- 🚀 Building automated CI/CD pipelines for efficient deployment
+- 📊 Implementing comprehensive monitoring and observability solutions
+- 🤝 Contributing to open-source DevOps tools and projects
+- 📚 Sharing DevOps best practices and infrastructure patterns
 
 ---
 
 ## 🤝 Let's Connect!
 
-I'm always open to discussing ideas, collaborating on projects, or just chatting about tech!
+I'm always open to discussing cloud architecture, DevOps practices, infrastructure challenges, or collaborating on exciting projects!
 
 <div align="center">
 
@@ -139,5 +157,5 @@ I'm always open to discussing ideas, collaborating on projects, or just chatting
 ---
 
 <div align="center">
-  <i>⭐ If you like my work, consider giving my repositories a star! It means a lot! ⭐</i>
+  <i>⭐ If you find my DevOps solutions helpful, consider giving my repositories a star! It means a lot! ⭐</i>
 </div>
