@@ -6,15 +6,15 @@
   <a href="https://linkedin.com/in/arungupta1526" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/arungupta1526" target="_blank">
+  <!-- <a href="https://twitter.com/arungupta1526" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  </a> -->
   <a href="mailto:arungupta1526@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://arungupta.dev" target="_blank">
+  <!-- <a href="https://arungupta.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  </a> -->
 </div>
 
 ---
@@ -39,7 +39,7 @@ I'm a passionate **DevOps Engineer & Cloud Architect** with extensive expertise 
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+<!--![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)-->
 
 ### Containerization & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -53,32 +53,32 @@ I'm a passionate **DevOps Engineer & Cloud Architect** with extensive expertise 
 
 ### CI/CD Pipelines
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+<!--![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA121?style=flat-square&logo=gitlab&logoColor=white)-->
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EB6E1F?style=flat-square&logo=argo&logoColor=white)
+<!--![ArgoCD](https://img.shields.io/badge/ArgoCD-EB6E1F?style=flat-square&logo=argo&logoColor=white)-->
 
 ### Monitoring & Logging
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+<!--![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)-->
 
 ### Scripting & Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+<!--![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)-->
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
 ### Version Control & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+<!--![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)-->
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -124,7 +124,7 @@ Complete observability solution with Prometheus, Grafana, and ELK stack integrat
 - ✅ Expert in CI/CD Pipeline Design & Implementation
 
 ---
-
+-->
 ## 📈 Recent Activity
 
 <!--
@@ -146,7 +146,7 @@ I'm always open to discussing cloud architecture, DevOps practices, infrastructu
 
 <div align="center">
 
-**[LinkedIn](https://linkedin.com/in/arungupta1526)** • **[Twitter](https://twitter.com/arungupta1526)** • **[Email](mailto:arungupta1526@gmail.com)** • **[Portfolio](https://arungupta.dev)**
+**[LinkedIn](https://linkedin.com/in/arungupta1526)** • **[Twitter](https://twitter.com/arungupta1526)** • **[Email](mailto:arungupta1526@gmail.com)**
 
 </div>
 
