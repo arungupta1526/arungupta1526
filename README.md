@@ -1,161 +1,158 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&height=100&lines=👋+Hey%2C+I'm+Arun+Gupta!;DevOps+Engineer;Cloud+Architect" alt="Arun Gupta" />
-</div>
+ <div align="center">
+  <h1>Hey, I'm Arun Gupta 👋</h1>
+  <h3>DevOps & Cloud Engineering | AI-Powered Developer Tools | Open Source</h3>
 
-<div align="center">
-  <a href="https://linkedin.com/in/arungupta1526" target="_blank">
+  <p>
+    Building practical software, automating developer workflows, and exploring cloud-native technologies.
+  </p>
+
+  <a href="https://linkedin.com/in/arungupta1526">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- <a href="https://twitter.com/arungupta1526" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a> -->
   <a href="mailto:arungupta1526@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <!-- <a href="https://arungupta.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a> -->
+  <a href="https://github.com/arungupta1526">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a passionate **DevOps Engineer & Cloud Architect** with extensive expertise in designing, deploying, and maintaining scalable infrastructure. I specialize in containerization, orchestration, CI/CD pipelines, and cloud-native solutions. I love automating workflows and building robust systems that enable teams to deliver software faster and more reliably.
+I'm a software developer and open-source builder interested in **DevOps, cloud infrastructure, CI/CD automation, and AI-powered developer tools**.
 
-- 🔭 Currently working on **cloud infrastructure automation and Kubernetes optimization**
-- 🌱 Learning **advanced Kubernetes, Service Mesh, and Infrastructure as Code**
-- 💡 Specialized in **Docker, Kubernetes, CI/CD, AWS, Terraform, and Monitoring**
-- 🎯 Goal: Design infrastructure that scales seamlessly and operates reliably
-- 💬 Ask me about **DevOps, Cloud Architecture, Kubernetes, Docker, or Automation**
-- ⚡ Fun fact: I can troubleshoot infrastructure issues faster with a cup of ☕!
+I enjoy solving practical engineering problems, experimenting with new technologies, and turning ideas into usable software.
+
+- 🔭 Building **ReviewGround**, an AI-powered code review and post-CI verification GitHub Action.
+- 🚆 Developing **ConfirmRoute**, an AI-powered railway information and journey assistance platform.
+- 🛠️ Exploring cloud infrastructure, automation, CI/CD, and DevSecOps practices.
+- 🌱 Continuously learning through hands-on projects and experimentation.
+- 🤝 Interested in open-source collaboration and engineering projects.
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Featured Projects
 
-<div align="center">
+### 1. ReviewGround — AI Code Reviewer & Post-CI Verification
 
-### Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-<!--![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)-->
+An open-source GitHub Action designed to assist code reviews and verify code changes in the CI workflow.
 
-### Containerization & Orchestration
+**Highlights**
+- AI-assisted pull request code reviews.
+- Post-CI verification workflows.
+- Real-time npm registry grounding for dependency-aware analysis.
+- Inline suggestions and actionable review feedback.
+- CI stage duration metrics and developer-focused reporting.
+
+**Tech Stack:** TypeScript · GitHub Actions · Gemini API · CI/CD
+
+<p>
+  <a href="https://github.com/arungupta1526/ReviewGround">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ReviewGround Repository" />
+  </a>
+  <a href="https://github.com/marketplace/actions/reviewground-ai-code-reviewer-ci-verification">
+    <img src="https://img.shields.io/badge/GitHub%20Marketplace-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Marketplace" />
+  </a>
+</p>
+
+### 2. ConfirmRoute — AI-Powered Railway Intelligence
+
+Developing a railway information and journey assistance platform that helps travelers explore railway-related information and plan journeys.
+
+**Highlights**
+- AI-powered conversational assistance.
+- Natural-language queries, including local-language interactions.
+- Railway information and journey-planning use cases.
+- Web application development with a cloud-backed data layer.
+
+**Tech Stack:** TypeScript · Supabase · PostgreSQL · Gemini API · Vercel
+
+<p>
+  <a href="https://www.confirmroute.com">
+    <img src="https://img.shields.io/badge/Live%20Website-01A077?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ConfirmRoute Website" />
+  </a>
+</p>
+
+### 3. Smart OCR Tool — Browser-Based Text Extraction
+
+A web application for extracting text from images and PDF documents directly in the browser.
+
+**Highlights**
+- Image and PDF text extraction.
+- Browser-based OCR processing using WebAssembly.
+- React-based interface with responsive styling.
+- GitHub Actions CI/CD and GitHub Pages deployment.
+
+**Tech Stack:** React · TypeScript · Vite · Tesseract.js · PDF.js · Tailwind CSS
+
+<p>
+  <a href="https://github.com/arungupta1526/ocr-tool">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Smart OCR Repository" />
+  </a>
+  <a href="https://arungupta1526.github.io/ocr-tool/">
+    <img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Smart OCR Live Demo" />
+  </a>
+</p>
+
+---
+
+## 🧰 Technologies & Tools
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
-### CI/CD Pipelines
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-<!--![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA121?style=flat-square&logo=gitlab&logoColor=white)-->
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-<!--![ArgoCD](https://img.shields.io/badge/ArgoCD-EB6E1F?style=flat-square&logo=argo&logoColor=white)-->
-
-### Monitoring & Logging
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-<!--![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)-->
-
-### Scripting & Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-<!--![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)-->
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
-
-### Version Control & Tools
+### CI/CD & Developer Tools
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-<!--![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)-->
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-</div>
+### Programming & Web Development
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Databases & AI
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+*My hands-on experience varies by technology; I'm continuing to expand my cloud and infrastructure automation skills through practical projects.*
 
 ---
-<!--
-## 📊 GitHub Stats
+
+## 📌 Current Focus
+
+- Improving CI/CD workflows and developer automation.
+- Practicing cloud infrastructure and deployment workflows.
+- Exploring DevSecOps and AI-assisted software engineering.
+- Building and maintaining open-source projects.
+- Learning through implementation, testing, and troubleshooting.
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to connecting with developers, contributing to open-source projects, and collaborating on practical engineering challenges.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arungupta1526&show_icons=true&theme=radical&hide_border=true" alt="Arun's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arungupta1526&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arungupta1526&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="50%" />
-</div>
-
----
-
-## 🎯 Featured Projects
-
-### 🌟 Kubernetes Infrastructure Automation
-Automated Kubernetes deployment and management pipeline with GitOps principles using ArgoCD.
-- **Tech Stack:** Kubernetes, Docker, Terraform, ArgoCD, GitHub Actions
-- **Focus:** Infrastructure as Code, CI/CD, Container Orchestration
-- **Link:** [GitHub Repo](https://github.com/arungupta1526)
-
-### 🌟 AWS Cloud Migration & Optimization
-Enterprise cloud migration strategy with multi-region deployment and cost optimization.
-- **Tech Stack:** AWS, Terraform, CloudFormation, Python, Ansible
-- **Focus:** Cloud Architecture, IaC, Auto-scaling
-- **Link:** [GitHub Repo](https://github.com/arungupta1526)
-
-### 🌟 Monitoring & Observability Stack
-Complete observability solution with Prometheus, Grafana, and ELK stack integration.
-- **Tech Stack:** Prometheus, Grafana, Elasticsearch, Logstash, Kibana, Python
-- **Focus:** Monitoring, Logging, Alerting, Analytics
-- **Link:** [GitHub Repo](https://github.com/arungupta1526)
-
----
-
-## 🏆 Achievements & Certifications
-
-- ✅ AWS Certified Solutions Architect
-- ✅ Certified Kubernetes Administrator (CKA)
-- ✅ Terraform Associate Certified
-- ✅ Docker Certified Associate
-- ✅ Google Cloud Professional Cloud Architect
-- ✅ Expert in CI/CD Pipeline Design & Implementation
-
----
--->
-## 📈 Recent Activity
-
-<!--
-You can customize this section to showcase your latest DevOps projects and contributions.
-Consider updating it regularly to keep your profile fresh!
--->
-
-- 🔧 Designing scalable Kubernetes clusters and container orchestration solutions
-- 🚀 Building automated CI/CD pipelines for efficient deployment
-- 📊 Implementing comprehensive monitoring and observability solutions
-- 🤝 Contributing to open-source DevOps tools and projects
-- 📚 Sharing DevOps best practices and infrastructure patterns
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to discussing cloud architecture, DevOps practices, infrastructure challenges, or collaborating on exciting projects!
-
-<div align="center">
-
-**[LinkedIn](https://linkedin.com/in/arungupta1526)** • **[Twitter](https://twitter.com/arungupta1526)** • **[Email](mailto:arungupta1526@gmail.com)**
-
+  <a href="https://linkedin.com/in/arungupta1526">LinkedIn</a> •
+  <a href="https://github.com/arungupta1526">GitHub</a> •
+  <a href="mailto:arungupta1526@gmail.com">Email</a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arungupta1526&color=blueviolet" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
-  <i>⭐ If you find my DevOps solutions helpful, consider giving my repositories a star! It means a lot! ⭐</i>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=arungupta1526&style=flat-square&color=0A66C2" alt="Profile Views" />
+  <br /><br />
+  <i>Building, learning, automating, and contributing — one project at a time.</i>
 </div>
